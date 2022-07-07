@@ -1,6 +1,6 @@
 ![author](https://img.shields.io/badge/author-fernando%20salom-red)
 
-# Game find it
+# Mini-game: Find it!
 
 ## Getting started
 
